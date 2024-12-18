@@ -21,7 +21,7 @@ repository               : "isaacdoku53/isaacdoku53.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "isaac_photo.png"
+  avatar           : "500x300.png"
   name             : "Isaac Doku"
   pronouns         : # example: "He/Him"  
   bio              : "Lecturer and CEGA fellow"
