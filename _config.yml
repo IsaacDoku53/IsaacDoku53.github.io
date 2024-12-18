@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/IsaacDoku53/isaacdoku53.github.io/blob/master/images/passport%20picture%20cega.JPG"
+  avatar           : "passport picture cega.JPG"
   name             : "Isaac Doku"
   pronouns         : # example: "He/Him"  
   bio              : "Lecturer and CEGA fellow"
