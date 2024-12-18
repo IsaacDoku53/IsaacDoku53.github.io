@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, University of Education, Winneba, 2020
+* MPhil in Economics, University of Ghana, Legon, 2012
+* B.A. in Economics with sociology-First Class Honours, University of Ghana, Legon, 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research/Visiting Fellow, Center for Effective Global Action (CEGA)
+  * University of California, Berkeley
+  * Duties includes: Proposal evelopment and Seminar presentations, auditing courses in econometrics and impact evaluation
+  * Supervisor: Aprajit Mahajan and Edward (Ted) Miguel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2021- Now: Lecturer
+  * University of Education, Winneba-Ghana
+  * Duties included: Lecturing research methods both at the undergraduate and postgraduate, microeconomics at the intermediate and advanced level, supervising students thesis and serving as a course counsellor. 
+  * Supervisor: Professor Anselm Komla Abotsi
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2013-July, 2021: Lecturer
+  * Data Link University
+  * Duties included: Lecturing quantitative methods, economics for business, microeconomics and labour economics; i also supervise students thesis and serve as a course counsellor.
+  * Supervisor: Professor Benjamin Ghansah
   
 Skills
 ======
